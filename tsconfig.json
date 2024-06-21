@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "baseUrl": "https://phptravels.net/",
+       "target": "ES6",
+       "types": ["cypress", "node", "@percy/cypress"]
+    },
+    "include": ["**/*.ts", "**/*.cy.ts", "support/commands.ts"]
+   }
